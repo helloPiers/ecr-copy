@@ -1,4 +1,4 @@
-package main // "go install hellopiers.io/ecr-copy"
+package main // "go install hellopiers.io/ecr-copy@latest"
 
 import (
 	"crypto/sha256"

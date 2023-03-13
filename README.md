@@ -14,7 +14,7 @@ You'll need AWS credentials &mdash; provided in the usual ways &mdash; which all
 
 ## Installation
 
-`go install hellopiers.io/ecr-copy`
+`go install hellopiers.io/ecr-copy@latest`
 
 ## Usage
 
